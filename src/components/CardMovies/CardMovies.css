@@ -1,0 +1,17 @@
+ .cardOverlay {
+     display: none;
+ }
+
+
+ .cardImg {
+     width: 100% !important;
+ }
+
+ .cardImg p {
+     color: red !important;
+     background-color: aqua !important;
+ }
+
+ .cartText p {
+     color: red !important;
+ }
